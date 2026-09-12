@@ -17,6 +17,7 @@ while True:
         show_tasks()
         input("Press enter to leave")
     elif choice=='3':
+        show_tasks()
         mark_completed()
         input("Press enter to leave")
     elif choice=='4':
